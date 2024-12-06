@@ -1,5 +1,5 @@
 
-# Exercise Tracking Script
+# Workout Tracker using Google Sheet
 
 ## Overview
 
